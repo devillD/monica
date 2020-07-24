@@ -14,7 +14,7 @@
 Monica is a great open source personal relationship management system.
 
 ## Heroku Deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devillD/monica.git)
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devillD/monica.git)
 
 - [Introduction](#introduction)
   - [Purpose](#purpose)
